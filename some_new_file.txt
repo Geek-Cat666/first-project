@@ -1,1 +1,2 @@
+fofo=0xBAD
 fofo=66
