@@ -6,3 +6,5 @@ Ah! Viva la vcode! You type it in just as in a normal text editor!
 Yay! And now I'm adding a new line of text using vcode! Finally!
 
 I'm a happy camper!
+
+I'm on branch b2! 
