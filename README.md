@@ -9,3 +9,5 @@ There will be conflict information 1
 Here we'll have a conflict!!!
 
 New information!
+
+Second information 2
