@@ -7,3 +7,5 @@ There is a new conflict!
 
 There will be conflict information 1
 Here we'll have a conflict!!!
+
+New information!
