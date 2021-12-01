@@ -12,3 +12,6 @@ Changes made on Pop OS!
 I'm on branch b2! 
 
 Another change on b2!
+
+This is a new branch created
+via Vcode!
