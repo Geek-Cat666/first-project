@@ -3,6 +3,9 @@
 hjdkfhsdjkfhsdk
 ioiuorteuq
 uieotueqot
+
+This is an info from pull req 2, mako_file.txt
+
 euiotyiuw'
 ytiweotyu
 hjdkhfksjdh
