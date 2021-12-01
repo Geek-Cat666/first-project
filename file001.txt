@@ -7,6 +7,8 @@ Yay! And now I'm adding a new line of text using vcode! Finally!
 
 I'm a happy camper!
 
+Another change via vcode on newly created branch!
+
 Changes made on Pop OS!
 
 I'm on branch b2! 
