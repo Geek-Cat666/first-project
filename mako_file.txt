@@ -13,6 +13,9 @@ hjdkhfksjdh
 This is an info from pull req 2, README.md
 This is an info from pull req 2, README.md
 This is an info from pull req 2, README.md
+
+There will be conflict!
+
 This is an info from pull req 2, README.md
 This is an info from pull req 2, README.md
 This is an info from pull req 2, README.md
